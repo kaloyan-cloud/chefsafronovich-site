@@ -61,7 +61,7 @@ window.kbSubmit = (e) => {
   const msg = (fd.get("msg") || "").toString().trim();
 
   const text =
-`Private Chef Inquiry — chefbahnev.com
+`Private Chef Inquiry — chefsafronovich.com
 
 Name: ${name}
 Contact: ${contact}
