@@ -104,7 +104,7 @@ const dict = {
     nav_contact: "Запросить дату",
 
     about_h: "Обо мне",
-    about_p1: "Я — частный шеф-повар. Создаю камерные ужины, семейные мероприятия и закрытые приёмы в формате fine dining дома — спокойно, точно и с вниманием к деталям.",
+    about_p1: "Я — частный шеф-повар. Создаю камерные ужины, семейные мероприятия и закрытые приёмы в формате fine dining.",
     about_p2: "Моя работа — это не только вкус, но и сервис: подбор продуктов, меню под запрос и сезон, аккуратная подача, чистота на кухне и комфорт гостей. Вы получаете ресторанный уровень у себя дома — без суеты и лишних действий с вашей стороны.",
 
     career_h: "Путь",
@@ -187,7 +187,7 @@ const dict = {
     nav_contact: "Request a date",
 
     about_h: "About",
-    about_p1: "I am a private chef creating intimate dinners, family gatherings, and exclusive receptions in a fine dining at home format — calm, precise, and with attention to every detail.",
+    about_p1: "I am a private chef creating intimate dinners, family gatherings, and exclusive receptions in a fine dining.",
     about_p2: "My work is not only about flavor, but also about service: selecting quality ingredients, creating seasonal menus tailored to each request, elegant presentation, a clean and organized kitchen, and a comfortable experience for guests. You receive a restaurant-level experience in your own home — without the stress or extra effort.",
 
     career_h: "Journey",
