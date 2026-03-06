@@ -194,7 +194,16 @@ a:hover{opacity:.92}
   margin:0 0 10px;
 }
 .lead{color:var(--muted);font-size:17px;margin:0 0 12px}
-.text{color:var(--muted);margin:0}
+.text{
+  color: var(--muted);
+  margin: 0 0 22px;
+  line-height: 1.8;
+  max-width: 620px;
+}
+
+.text:last-child{
+  margin-bottom: 0;
+}
 .note{color:var(--muted2);margin:16px 0 0;font-size:13px}
 
 /* ===================== CARD ===================== */
